@@ -44,3 +44,5 @@ This is a RESTful API for managing books and users, supporting features like cre
 ## Setup & Run
 
 1. Install dependencies:
+2. Start server:`npm run dev`
+3. API will run on `http://localhost:5000/api`
